@@ -25,4 +25,7 @@ while (command !== 'q' && command !== 'quit') {
         alert("Sorry I don't know what you want to do.");
     }
     command = prompt("what would you like to do?");
+} 
+if (command === "q" || command === "quit") {
+    console.log("you've quit the app, goodbye")
 }
