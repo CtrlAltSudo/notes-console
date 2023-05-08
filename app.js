@@ -1,5 +1,5 @@
-let command = prompt("what would you like to do?");
-const array = ["starter string", "another string"];
+let command = prompt("Welcome to notes! What would you like to do?");
+const array = ["Buy Bananas", "Study tonight", "Don't panic" ];
 
 while (command !== 'q' && command !== 'quit') {
     if (command === "list") {
@@ -19,6 +19,7 @@ while (command !== 'q' && command !== 'quit') {
         }
         index = parseInt(prompt("okay, what is the index of the item you wish to delete?"))
         array.splice(index)
+        alert("Okay, that's been deleted.")
     }
     else {
         alert("Sorry I don't know what you want to do.");
