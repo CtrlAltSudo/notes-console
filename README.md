@@ -7,10 +7,10 @@
 
 ## Controls
 
-Add - Adds an item to the list
-List - Lists your notes
-Delete - Delete entries 
-Quit or q - Quit the app 
+<p>Add - Adds an item to the list</p>
+<p>List - Lists your notes</p>
+<p>Delete - Delete entries </p>
+<p>Quit or q - Quit the app </p>
 
 ## Description
 
