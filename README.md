@@ -5,6 +5,13 @@
   <img src="./screenshot.png"></img>
 </p>
 
+## Controls
+
+Add - Adds an item to the list
+List - Lists your notes
+Delete - Delete entries 
+Quit or q - Quit the app 
+
 ## Description
 
 This is a notes app I created with what I've learnt from Colt Steels web developer course. 
